@@ -1,6 +1,6 @@
-# 🌾 Farmers Marketplace
+# 🌾 Farmigo – Connecting Farmers to Buyers
+**Farmigo** is a full-stack web application designed to bridge the gap between local farmers and consumers. The platform enables farmers to list their fresh produce while allowing buyers to browse, search, and connect with sellers—eliminating the need for middlemen and promoting fair trade.
 
-A full-stack web platform that connects farmers directly with buyers, eliminating the need for middlemen. Farmers can list their products, and buyers can browse, search, and contact sellers directly. The platform ensures fair pricing and easy access to local produce.
 
 ---
 
@@ -75,11 +75,6 @@ npm install
 .Push to the branch: git push origin feature-name
 .Create a Pull Request    
 
-📬 Contact
-For suggestions or feedback, feel free to reach out at:
-📧 2110priyatiwari@gmail.com
-
-🔗 https://github.com/2110priyatiwari
 
 🙌 Future Improvements
 🧾 Payment gateway integration
