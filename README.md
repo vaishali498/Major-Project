@@ -1,4 +1,4 @@
-# 🌾 Farmigo – Connecting Farmers to Buyers
+# 🌾 Farmer Marketplace(Farmigo) – Connecting Farmers to Buyers
 **Farmigo** is a full-stack web application designed to bridge the gap between local farmers and consumers. The platform enables farmers to list their fresh produce while allowing buyers to browse, search, and connect with sellers—eliminating the need for middlemen and promoting fair trade.
 
 
